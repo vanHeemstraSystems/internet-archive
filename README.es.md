@@ -1,8 +1,8 @@
-nombre-repositorio
+archivo de internet
 
-# Nombre del repositorio
+# Archivo de Internet
 
-> línea de bala
+> [Archivo de Internet](https://archive.org/)es una biblioteca sin fines de lucro con millones de textos, películas, software, música, sitios web y más gratuitos.
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -24,7 +24,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusión
 
