@@ -1,16 +1,16 @@
-nom du référentiel
+archives Internet
 
-# Nom du référentiel
+# Archives Internet
 
-> Slugline
+> [Archives Internet](https://archive.org/)est une bibliothèque à but non lucratif contenant des millions de textes, films, logiciels, musiques, sites Web gratuits et bien plus encore.
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
@@ -28,4 +28,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
