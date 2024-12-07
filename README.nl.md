@@ -1,8 +1,8 @@
-repositorynaam
+internet-archief
 
-# Naam van opslagplaats
+# Internetarchief
 
-> Slaklijn
+> [Internetarchief](https://archive.org/)is een non-profitbibliotheek met miljoenen gratis teksten, films, software, muziek, websites en meer.
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
