@@ -1,14 +1,14 @@
-存储库名称
+互联网档案馆
 
-# 存储库名称
+# 互联网档案馆
 
-> 斯拉格莱恩
+> [互联网档案馆](https://archive.org/)是一个非营利性图书馆，包含数百万个免费文本、电影、软件、音乐、网站等。
 
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
@@ -16,7 +16,7 @@
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -26,6 +26,6 @@ See [README.md](./100/README.md)
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
